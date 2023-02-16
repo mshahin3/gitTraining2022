@@ -1,5 +1,11 @@
+
 This git learing for main
 
 This is cheer up work Remarkable Trementdous
 
 How  beautiful is 
+=======
+graphical Coordinates System
+
+To Print , you need to specially where to paint. Each component has its own
+coordinate system with the origin. at the upper-left corner of the component. The x cordinate increase to with the or
